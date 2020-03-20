@@ -44,7 +44,7 @@ body {
 
 /* 隐藏侧栏 */
 
-/* #content_right{display:none!important}
+/* #content_right{display:none!important}",
 
 /* 固定背景 */
 
@@ -52,11 +52,11 @@ body {
 
 /* 搜索结果居中 */
 
-/* #container{margin:0 auto;}#content_left {padding-left:0;}
+/* #container{margin:0 auto;}#content_left {padding-left:0;}",
 
 /* 搜索框居中 */
 
-/* .soutu-env-result #form{margin:10px 19.5%;}.s_tab_inner{margin:0 20%;}
+/* .soutu-env-result #form{margin:10px 19.5%;}.s_tab_inner{margin:0 20%;}",
 
 /* 两列卡片，不带居中，请先隐藏侧栏 */
 
@@ -73,7 +73,7 @@ body {
   margin-bottom: 30px;
   margin-left: 5px;
   margin-right: 15px;
-}
+}",
 
 .c-span18 {
   width: 300px;
@@ -92,7 +92,7 @@ body {
 
 #s_form_wrapper > #form {
   margin-top: -50px;
-}
+}",
 
 /* 搜索内容下划线样式，默认开启 */
 
